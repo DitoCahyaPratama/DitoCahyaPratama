@@ -7,7 +7,7 @@
 
 <p>
  <img width="46%" align="left" alt="Dito's github stats" src="https://github-readme-stats.gopla.vercel.app/api?username=DitoCahyaPratama&show_icons=true&theme=random" />
- <img width="41%" align="right" alt="Dito's Most Used Languages" src="https://assets8.lottiefiles.com/packages/lf20_wd8mqnqu.json" />
+ <iframe width="41%" align="right" src="https://embed.lottiefiles.com/animation/56370"></iframe>
 </p>
 
 <!-- ![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=DitoCahyaPratama&show_icons=true&theme=random) -->
