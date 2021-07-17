@@ -5,7 +5,12 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:ditocahyapratama717@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/ditocahyapratama)
 
-![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=DitoCahyaPratama&show_icons=true&theme=random)
+<p>
+ <img width="46%" align="left" alt="Dito's github stats" src="https://github-readme-stats.gopla.vercel.app/api?username=DitoCahyaPratama&show_icons=true&theme=random" />
+ <img width="41%" align="right" alt="Dito's Most Used Languages" src="https://assets8.lottiefiles.com/packages/lf20_wd8mqnqu.json" />
+</p>
+
+<!-- ![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=DitoCahyaPratama&show_icons=true&theme=random) -->
 
 - 🌱 I’m currently learning AI, Iot, PHP, Javascript and Java
 
