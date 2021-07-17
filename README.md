@@ -1,15 +1,26 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+#### My name is Dito Cahya Pratama. I'm From Indonesia . I'm is a Fullstack Web & Mobile Developer. Besides that I also learn about AI and IoT. I really like discovering new things, contact me if you want to work together
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dito-cahya-pratama-738504194/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:ditocahyapratama717@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/ditocahyapratama)
 
 ![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=DitoCahyaPratama&show_icons=true&theme=random)
 
-- 🌱 I’m currently learning Javascript and Java
+- 🌱 I’m currently learning AI, Iot, PHP, Javascript and Java
 
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/codeigniter.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+
 
 - ⚡ I'm familiar with this software editor
 
