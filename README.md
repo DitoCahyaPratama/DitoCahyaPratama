@@ -5,10 +5,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:ditocahyapratama717@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/ditocahyapratama)
 
-<div align="center">
-  <img width="45%" align="left" alt="Dito's github stats" src="https://github-readme-stats.gopla.vercel.app/api?username=DitoCahyaPratama&show_icons=true&theme=random" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=DitoCahyaPratama" height="150" alt="languages graph"  />
-</div>
+
+<img width="45%" align="left" alt="Dito's github stats" src="https://github-readme-stats.gopla.vercel.app/api?username=DitoCahyaPratama&show_icons=true&theme=random" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=DitoCahyaPratama" height="150" alt="languages graph"  />
 
 ## Keep Coding && Keep Going
 
