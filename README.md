@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/ditocahyapratama)
 
 <img width="45%" align="left" alt="Dito's github stats" src="https://github-readme-stats.gopla.vercel.app/api?username=DitoCahyaPratama&show_icons=true&theme=random" />
-<img width="50%" align="left" alt="Animation" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=DitoCahyaPratama" height="150" alt="languages graph"  />
 <!-- ![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=DitoCahyaPratama&show_icons=true&theme=random) -->
 
 ## Keep Coding && Keep Going
